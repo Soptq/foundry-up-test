@@ -8,7 +8,11 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "config": {
+    "foundry_version": "nightly-2cf84d9f3ba7b6f4a9296299e7036ecc24cfa1da"
+  },
   "dependencies": {
+    "foundry-up": "1.2.0",
     "react": "^18",
     "react-dom": "^18",
     "next": "14.1.0"
